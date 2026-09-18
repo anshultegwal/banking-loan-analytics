@@ -1,0 +1,51 @@
+branch_id,branch_name,city,state,region,branch_type
+101,Delhi Main Branch,Delhi,Delhi,North,Urban
+102,Lucknow Central Branch,Lucknow,Uttar Pradesh,South,Semi-Urban
+103,Mumbai City Branch,Mumbai,Maharashtra,East,Rural
+104,Jaipur Market Branch,Jaipur,Rajasthan,West,Urban
+105,Kolkata Industrial Branch,Kolkata,West Bengal,Central,Semi-Urban
+106,Bengaluru Main Branch,Bengaluru,Karnataka,North,Rural
+107,Chennai Central Branch,Chennai,Tamil Nadu,South,Urban
+108,Hyderabad City Branch,Hyderabad,Telangana,East,Semi-Urban
+109,Ahmedabad Market Branch,Ahmedabad,Gujarat,West,Rural
+110,Bhopal Industrial Branch,Bhopal,Madhya Pradesh,Central,Urban
+111,Patna Main Branch,Patna,Bihar,North,Semi-Urban
+112,Ludhiana Central Branch,Ludhiana,Punjab,South,Rural
+113,Gurugram City Branch,Gurugram,Haryana,East,Urban
+114,Kochi Market Branch,Kochi,Kerala,West,Semi-Urban
+115,Bhubaneswar Industrial Branch,Bhubaneswar,Odisha,Central,Rural
+116,Delhi Main Branch,Delhi,Delhi,North,Urban
+117,Lucknow Central Branch,Lucknow,Uttar Pradesh,South,Semi-Urban
+118,Mumbai City Branch,Mumbai,Maharashtra,East,Rural
+119,Jaipur Market Branch,Jaipur,Rajasthan,West,Urban
+120,Kolkata Industrial Branch,Kolkata,West Bengal,Central,Semi-Urban
+121,Bengaluru Main Branch,Bengaluru,Karnataka,North,Rural
+122,Chennai Central Branch,Chennai,Tamil Nadu,South,Urban
+123,Hyderabad City Branch,Hyderabad,Telangana,East,Semi-Urban
+124,Ahmedabad Market Branch,Ahmedabad,Gujarat,West,Rural
+125,Bhopal Industrial Branch,Bhopal,Madhya Pradesh,Central,Urban
+126,Patna Main Branch,Patna,Bihar,North,Semi-Urban
+127,Ludhiana Central Branch,Ludhiana,Punjab,South,Rural
+128,Gurugram City Branch,Gurugram,Haryana,East,Urban
+129,Kochi Market Branch,Kochi,Kerala,West,Semi-Urban
+130,Bhubaneswar Industrial Branch,Bhubaneswar,Odisha,Central,Rural
+131,Delhi Main Branch,Delhi,Delhi,North,Urban
+132,Lucknow Central Branch,Lucknow,Uttar Pradesh,South,Semi-Urban
+133,Mumbai City Branch,Mumbai,Maharashtra,East,Rural
+134,Jaipur Market Branch,Jaipur,Rajasthan,West,Urban
+135,Kolkata Industrial Branch,Kolkata,West Bengal,Central,Semi-Urban
+136,Bengaluru Main Branch,Bengaluru,Karnataka,North,Rural
+137,Chennai Central Branch,Chennai,Tamil Nadu,South,Urban
+138,Hyderabad City Branch,Hyderabad,Telangana,East,Semi-Urban
+139,Ahmedabad Market Branch,Ahmedabad,Gujarat,West,Rural
+140,Bhopal Industrial Branch,Bhopal,Madhya Pradesh,Central,Urban
+141,Patna Main Branch,Patna,Bihar,North,Semi-Urban
+142,Ludhiana Central Branch,Ludhiana,Punjab,South,Rural
+143,Gurugram City Branch,Gurugram,Haryana,East,Urban
+144,Kochi Market Branch,Kochi,Kerala,West,Semi-Urban
+145,Bhubaneswar Industrial Branch,Bhubaneswar,Odisha,Central,Rural
+146,Delhi Main Branch,Delhi,Delhi,North,Urban
+147,Lucknow Central Branch,Lucknow,Uttar Pradesh,South,Semi-Urban
+148,Mumbai City Branch,Mumbai,Maharashtra,East,Rural
+149,Jaipur Market Branch,Jaipur,Rajasthan,West,Urban
+150,Kolkata Industrial Branch,Kolkata,West Bengal,Central,Semi-Urban
